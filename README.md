@@ -1,5 +1,6 @@
 ![](https://media-exp1.licdn.com/dms/image/D5616AQEoDbaIEpVBvA/profile-displaybackgroundimage-shrink_350_1400/0/1665491457431?e=1671062400&v=beta&t=hcBsZE_fNEzAqINx2JCnLwhkd7dxYOLDDbxQIQ3mEmk)
-<img src="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakhaut-roky" alt="sakhaut-roky"/>
+<img src="https://media-exp1.licdn.com/dms/image/D5616AQH6yht0fx4Nug/profile-displaybackgroundimage-shrink_350_1400/0/1665631985717?e=1671062400&v=beta&t=Bwa25cz7v09ix8RAgST0ep6ugravJ-g6TuIHWFYPNbg" />
+<img src="https://github-profile-trophy.vercel.app/?username=sakhaut-roky" alt="sakhaut-roky"/>
 <h1 align="center">Hi 👋, I'm Sakhaut Hossin Roky</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
